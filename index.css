@@ -1,0 +1,27 @@
+.hn-contrast-color-rating {
+    color: #16171a;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.hn-contrast-color-rating.is-low {
+    color: #c82829;
+}
+
+.hn-contrast-color-input {
+    display: flex;
+}
+
+.hn-contrast-color-preview {
+    flex-shrink: 0;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-right: 1px solid #ccc;
+}
+
+.hn-contrast-color-value {
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier,
+        monospace;
+    background-color: #fff;
+    opacity: 0.5;
+}

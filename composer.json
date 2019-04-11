@@ -1,0 +1,22 @@
+{
+    "name": "hananils/contrast-color",
+    "description": "Contrast Color for Kirby",
+    "type": "kirby-plugin",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hana+nils · Büro für Gestaltung",
+            "email": "buero@hananils.de"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/hananils/kirby-contrast-color/issues/"
+    },
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
