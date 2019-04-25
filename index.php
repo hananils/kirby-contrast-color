@@ -15,7 +15,7 @@ Kirby::plugin('hananils/contrast-color', [
 
                     return $colors;
                 },
-                'value' => function (string $value) {
+                'value' => function (string $value = '') {
                     return $value;
                 }
             ],
